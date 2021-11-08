@@ -1,0 +1,7 @@
+coverage
+node_modules
+lib
+*.pdf
+*.js
+.vscode
+.DS_Store
